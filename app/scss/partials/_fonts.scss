@@ -1,0 +1,9 @@
+@font-face {
+    font-family: '';
+    src: url('');
+    src: url('') format('embedded-opentype'),
+    url('') format('woff2'), /* Super Modern Browsers */
+    url('') format('woff'), /* Pretty Modern Browsers */
+    url('')  format('truetype'), /* Safari, Android, iOS */
+    url('') format('svg'); /* Legacy iOS */
+}
